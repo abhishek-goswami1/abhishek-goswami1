@@ -25,27 +25,11 @@ I'm a passionate front-end developer focused on creating clean, responsive, and 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 🔥 GitHub Streak
 
 <div align="center">
 
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=abhi001-q&theme=dark&hide_border=true)
-
-
-
-
-
+  <img src="https://streak-stats.demolab.com/?user=abhi001-q&theme=dark&hide_border=true"/>
 
 </div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=abhi001-q&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
 
