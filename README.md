@@ -29,6 +29,7 @@ I'm a passionate front-end developer focused on creating clean, responsive, and 
 <div align="center">
 
   <img src="https://streak-stats.demolab.com/?user=abhishek-goswami1&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-goswami1&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
